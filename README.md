@@ -2,6 +2,8 @@
 
 ### Link to ova file of the VM machine:
 
+https://drive.google.com/file/d/1544Ax6jDJuEAmV_VJ7noudxkHvCPfr17/view?usp=sharing
+
 Based on Lubuntu 16.04 LTS, RAM memory usage at startup: 200 MB
 
 
