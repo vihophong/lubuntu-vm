@@ -1,4 +1,9 @@
-### Link to ova file:
+## Very light ubuntu machine with qtcreator, cern root, geant4 and Virtualbox guest addition installed
+
+### Link to ova file of the VM machine:
+
+Based on Lubuntu 16.04 LTS, RAM memory usage at startup: 200 MB
+
 
 
 ### Copy data from host computer
